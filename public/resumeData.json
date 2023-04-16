@@ -1,0 +1,68 @@
+{
+  "main": {
+    "name": "Udit Saxena",
+    "occupation": "Accounting Professional",
+    "description": "Accounting & Finance",
+    "image": "profilepic.jpg",
+    "resumedownload":"Resume_Udit_Saxena.pdf",
+    "bio": "Hi there! I am Udit! currently associated with Relevel a startup of Unacademy group based at Bengaluru as Sr Finance Associate, looking after sales and expense reco, payment mobilisation and control, expense management and also assisting Sales, operations team in sales reconciliation and payment tracking. I am profiecient in Excel including other Microsoft office tools, Tally ERP and Oracle accounting software. I am a B.com (H) graduate from Calcutta University and a Semi Qualified CA from ICAI (pursuing CA Final). My previous employer, SREI Equipment Finance Ltd, being a listed entity, gave me handfull experience in MIS, Budgeting, Accounts Payable/ receivable, GST, TDS, Data sorting/ validation and Vendor management. Have worked with a team of 12 members where I have enhanced my skills as an active team member and also contributed to my professional growth as an individual contributor. In my past experience, have worked with a State Govt. organisation where I single handedly transformed a manual accounting system into a computerised accounting and got praised from senior authorities. Having accounting experience in IT, Government sector, Advisory, NBFC and Startup. I am having zeal to learn new things and to use those skills and knowledge to contribute to the organisation's success.",
+    "contactmessage": "Would love to be part of your esteemed organisation and would definitely add tangible values for the succes of your fast paced organisation!",
+    "email": "uditsaxena1990@gmail.com",
+    "phone": "+91-7980400686/ +91-9830737805",
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560087"
+    },
+    "social": [  
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/udit-saxena-61059282",
+        "className": "fa fa-linkedin"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Accounting, Taxation & Finance with ERP Proficiency",
+    "education": [
+      {
+        "school": "Institute of Chartered Accountants of India (ICAI)",
+        "degree": "CA Intermediate",
+        "graduated": "October 2015",
+        "description": "Graduated Intermediate and Pursuing Final"
+      },
+      {
+        "school": "University of Calcutta",
+        "degree": "Bachelor's Degree, Accounting & Finance",
+        "graduated": "July 2011",
+        "description": "Graduated with First Class Honours"
+      }
+    ],
+    "work": [
+      {
+        "company": "RELEVEL by Unacademy (Bangalore)",
+        "title": "Sr Finance Associate",
+        "years": "March 2022 - Present",
+        "description": "Sales and Expense Reconciliation. Data Sorting, Co-ordination with Sales and Operations team for payment tracking and sales reco."
+      },
+      {
+        "company": "SREI Equiment Finance Ltd. (Kolkata)",
+        "title": "Assistant Manager (Accounts)",
+        "years": "April 2021 - March 2022",
+        "description": "Preparation of MIS, Dashboard, Expense Budgets, Provisons, Oracle entries, TDS, GST, payment reconciliation and Vendor Management."
+      },
+      {
+        "company": "4i Advisory Services (Kolkata)",
+        "title": "Executive Accounts and taxation",
+        "years": "March 2020 - March 2021",
+        "description": "Accounts payable/ Receivable, Invoicing, Payroll processing, Expense management, budgeting, MIS, Dashboard, GST & TDS Retuns filing, Tax Computation and filing, assisting auditors."
+      },
+      {
+        "company": "WBSRDA (Govt of West Bengal, Kolkata)",
+        "title": "Accountant",
+        "years": "August 2019 - Feb 2020",
+        "description": "Fund Management and accounting as per MGNREGA guidelines and Rules. Payroll processing, EPF & ESI filing, Auditing, Assisting Auditors, Expense management, budgeting, drafting agreements and letters to Central and state govt offices."
+      }
+    ]
+  }
+}
