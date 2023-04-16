@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer = ({ data }) => {
   if (data) {
-    var networks = data.social.map(function (network) {
+    data.social.map(function (network) {
       return (
         <li key={network.name}>
           <a href={network.url}>
